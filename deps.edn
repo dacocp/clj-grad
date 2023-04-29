@@ -1,0 +1,4 @@
+{:paths ["src" "test"]
+ :deps  {org.clojure/clojure    {:mvn/version "1.11.1"}
+         net.mikera/core.matrix {:mvn/version "0.63.0"}
+         com.taoensso/timbre    {:mvn/version "6.0.4"}}}
